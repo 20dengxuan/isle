@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="19px" height="19px" viewBox="0 0 19 19" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>收起-sel</title>
+    <desc>Created with Sketch.</desc>
+    <g id="注册登记（pc)" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="预登记（step3展会期间）" transform="translate(-56.000000, -1355.000000)" fill="#3371FF">
+            <path d="M73,1355 C74.1045695,1355 75,1355.89543 75,1357 L75,1372 C75,1373.10457 74.1045695,1374 73,1374 L58,1374 C56.8954305,1374 56,1373.10457 56,1372 L56,1357 C56,1355.89543 56.8954305,1355 58,1355 L73,1355 Z M66,1359 L65,1359 L65,1364 L60,1364 L60,1365 L65,1365 L65,1370 L66,1370 L66,1365 L71,1365 L71,1364 L66,1364 L66,1359 Z" id="收起-sel"></path>
+        </g>
+    </g>
+</svg>

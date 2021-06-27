@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>view</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 1e-05 19.94995 1e-05 19.94995 19.95 0 19.95"></polygon>
+    </defs>
+    <g id="直播PC" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="首页-中" transform="translate(-1101.000000, -1892.000000)">
+            <g id="view" transform="translate(1101.000000, 1892.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Clip-2"></g>
+                <path d="M14.84725,10.17041 C14.34125,10.46651 8.41405,13.92651 8.11745,14.09771 C7.74725,14.31181 7.37285,14.03951 7.37285,13.67361 L7.37285,5.80311 C7.37285,5.40001 7.78675,5.20421 8.10225,5.38161 C8.53325,5.62321 14.48285,9.10081 14.84725,9.31781 C15.17415,9.51251 15.17935,9.97611 14.84725,10.17041 M9.97495,1e-05 C4.46595,1e-05 -5e-05,4.46601 -5e-05,9.97501 C-5e-05,15.48411 4.46595,19.95001 9.97495,19.95001 C15.48415,19.95001 19.94995,15.48411 19.94995,9.97501 C19.94995,4.46591 15.48415,1e-05 9.97495,1e-05" id="Fill-1" fill="#FFFFFF" mask="url(#mask-2)"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="40px" viewBox="0 0 36 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>直播中心直播中左上标签</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="79.8371011%" id="linearGradient-1">
+            <stop stop-color="#FF6F9B" offset="0%"></stop>
+            <stop stop-color="#E65DFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="直播PC" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="展会直播list-中" transform="translate(-310.000000, -747.000000)">
+            <g id="直播中心直播中左上标签" transform="translate(310.000000, 747.000000)">
+                <path d="M0,0 L36,0 L36,38.3527416 C36,38.9050263 35.5522847,39.3527416 35,39.3527416 C34.8393649,39.3527416 34.6810938,39.3140441 34.5385812,39.239924 L18.4614188,30.8782793 C18.1721956,30.7278559 17.8278044,30.7278559 17.5385812,30.8782793 L0,40 L0,40 L0,0 Z" id="矩形" fill="url(#linearGradient-1)"></path>
+                <path d="M5.3835,12.718 L7.0085,12.718 L7.0085,20.596 L11.7275,20.596 L11.7275,22 L5.3835,22 L5.3835,12.718 Z M12.8455,12.718 L14.4705,12.718 L14.4705,22 L12.8455,22 L12.8455,12.718 Z M15.4065,12.718 L17.0965,12.718 L19.4235,20.063 L19.4495,20.063 L21.8285,12.718 L23.4795,12.718 L20.3075,22 L18.5005,22 L15.4065,12.718 Z M24.4025,12.718 L31.0845,12.718 L31.0845,14.122 L26.0275,14.122 L26.0275,16.553 L30.7075,16.553 L30.7075,17.879 L26.0275,17.879 L26.0275,20.596 L31.1755,20.596 L31.1755,22 L24.4025,22 L24.4025,12.718 Z" id="LIVE" fill="#FFFFFF" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>
