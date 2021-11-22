@@ -1,8 +1,3 @@
-/*
-* auther:peam
-* time: 2020/1/8
-* desc: 缓存API，一些不需要依赖用户信息的接口数据，做缓存处理，目前缓存时间写成固定，如果后面有需求，也可以改成动态的
-*/
 import Vue from 'vue';
 import lruCache from 'lru-cache';
 import $axios from 'axios';
